@@ -1,2 +1,2 @@
 # backend-nodejs
-A proyect using node js as a backend for e-comerce aplication
+the routing of a proyect using node js and express library as a backend for an e-comerce aplication. 
